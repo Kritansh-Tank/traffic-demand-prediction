@@ -95,3 +95,7 @@ Run all cells top to bottom. The notebook will output `submission_v10.csv`.
 ```
 pandas, numpy, lightgbm, catboost, pygeohash, scikit-learn, scipy
 ```
+
+## License
+
+MIT License - See [LICENSE](./LICENSE.md) file for details
